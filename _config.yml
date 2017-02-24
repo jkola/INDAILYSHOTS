@@ -1,3 +1,4 @@
 theme: jekyll-theme-hacker
-timezone:India/Roorkee # Set the timezone
-YYYY-MM-DD HH:MM:SS +/-TTTT
+gems:
+  - jekyll-last-modified-at
+  {{ page.last_modified_at }}
