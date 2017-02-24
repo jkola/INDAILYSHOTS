@@ -4,6 +4,7 @@
  __*NEWS UPTO THIS TIME IS*__
  
  ---
+ 
 ![image-image1](https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-0/p261x260/16938699_1920913244790837_6801040572494713571_n.png?oh=cd1db0fb8b5333b34e0d42397a3938ee&oe=59358714)
 
 ## 1 . MLA of Mizoram Dr K Beichhua(MBBS) saved life of a women performing an emergency operation in absence of Doctor in Mizoram.
@@ -23,3 +24,4 @@
 ![image-image5](https://scontent.fdel1-1.fna.fbcdn.net/v/t1.0-9/16938906_1920919418123553_3340048309143687766_n.png?oh=b7284a4245f157ad90c99262297bd668&oe=5940E82B)
 
 ## 5 . Rape Accused UP Minister Gayatri Prajapati Got Akhilesh Yadav's Backing In Amethi in assembly elections of UP.
+---
